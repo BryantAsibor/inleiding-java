@@ -4,7 +4,7 @@ import java.applet.*;
 import java.awt.event.*;
 import java.util.*;
 
-public class Getallen extends Applet {
+public class TabelGetallen extends Applet {
 
     TextField[] input = new TextField[5];
     Button confirm;
